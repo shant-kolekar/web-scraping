@@ -1,7 +1,5 @@
 # Web Scraping Project: Sentiment Analysis of TCS Interview Reviews
 
-# Web Scraping Project: Sentiment Analysis of TCS Interview Reviews
-
 ## Project Overview
 
 This project involves scraping all interview reviews associated with TCS (Tata Consultancy Services) from Glassdoor. The goal was to build a classification model based on the sentiment of the reviews, experience and level of interviews, and the week of the year. We used the Word2Vec pretrained model to convert the reviews into word embeddings and analyzed them using various machine learning techniques.
